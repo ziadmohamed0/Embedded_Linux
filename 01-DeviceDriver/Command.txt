@@ -1,0 +1,5 @@
+lsmod -> show all modules in system 
+insmod (module.ko) -> insert module in system 
+rmmod (module) -> delete module in system 
+modinf -> show all information for the module
+dmesg -> show the massage in this module

@@ -1,0 +1,1 @@
+savedcmd_/home/ziad/Ziad/Device_Driver/02_Paramiter/param.ko := ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm/module.lds -o /home/ziad/Ziad/Device_Driver/02_Paramiter/param.ko /home/ziad/Ziad/Device_Driver/02_Paramiter/param.o /home/ziad/Ziad/Device_Driver/02_Paramiter/param.mod.o;  true

@@ -1,0 +1,1 @@
+savedcmd_/home/ziad/Ziad/Device_Driver/04_CreateFile/file.ko := ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm/module.lds -o /home/ziad/Ziad/Device_Driver/04_CreateFile/file.ko /home/ziad/Ziad/Device_Driver/04_CreateFile/file.o /home/ziad/Ziad/Device_Driver/04_CreateFile/file.mod.o;  true

@@ -1,0 +1,1 @@
+savedcmd_/home/ziad/Ziad/Device_Driver/02_Paramiter/param.mod := printf '%s\n'   param.o | awk '!x[$$0]++ { print("/home/ziad/Ziad/Device_Driver/02_Paramiter/"$$0) }' > /home/ziad/Ziad/Device_Driver/02_Paramiter/param.mod

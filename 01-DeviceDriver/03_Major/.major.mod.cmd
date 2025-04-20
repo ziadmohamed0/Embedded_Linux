@@ -1,0 +1,1 @@
+savedcmd_/home/ziad/Ziad/Device_Driver/03_Major/major.mod := printf '%s\n'   major.o | awk '!x[$$0]++ { print("/home/ziad/Ziad/Device_Driver/03_Major/"$$0) }' > /home/ziad/Ziad/Device_Driver/03_Major/major.mod
