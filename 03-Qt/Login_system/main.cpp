@@ -110,7 +110,7 @@ private:
 };
 
 /**
- * @brief Main entry point of the application
+ * @brief Main entry point of the application.
  */
 int main(int argc, char* argv[]) {
     QApplication app(argc, argv);
