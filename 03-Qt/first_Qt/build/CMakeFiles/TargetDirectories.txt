@@ -1,0 +1,5 @@
+/home/ziad/Ziad_WS/Software_Enginerring/04-Qt/secound_Qt/build/CMakeFiles/Qt_Tutorials.dir
+/home/ziad/Ziad_WS/Software_Enginerring/04-Qt/secound_Qt/build/CMakeFiles/edit_cache.dir
+/home/ziad/Ziad_WS/Software_Enginerring/04-Qt/secound_Qt/build/CMakeFiles/rebuild_cache.dir
+/home/ziad/Ziad_WS/Software_Enginerring/04-Qt/secound_Qt/build/CMakeFiles/Qt_Tutorials_autogen_timestamp_deps.dir
+/home/ziad/Ziad_WS/Software_Enginerring/04-Qt/secound_Qt/build/CMakeFiles/Qt_Tutorials_autogen.dir
