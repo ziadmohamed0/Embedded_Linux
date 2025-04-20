@@ -1,0 +1,1 @@
+savedcmd_/home/ziad/Ziad/Device_Driver/03_Major/major.ko := ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm/module.lds -o /home/ziad/Ziad/Device_Driver/03_Major/major.ko /home/ziad/Ziad/Device_Driver/03_Major/major.o /home/ziad/Ziad/Device_Driver/03_Major/major.mod.o;  true

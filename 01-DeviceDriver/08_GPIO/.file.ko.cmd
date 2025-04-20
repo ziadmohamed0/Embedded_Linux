@@ -1,0 +1,1 @@
+savedcmd_/home/ziad/Device_Driver/08_GPIO/file.ko := ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm/module.lds -o /home/ziad/Device_Driver/08_GPIO/file.ko /home/ziad/Device_Driver/08_GPIO/file.o /home/ziad/Device_Driver/08_GPIO/file.mod.o;  true

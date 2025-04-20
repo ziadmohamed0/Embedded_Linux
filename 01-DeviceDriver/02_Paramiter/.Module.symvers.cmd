@@ -1,0 +1,1 @@
+savedcmd_/home/ziad/Ziad/Device_Driver/02_Paramiter/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ziad/Ziad/Device_Driver/02_Paramiter/Module.symvers -T /home/ziad/Ziad/Device_Driver/02_Paramiter/modules.order -i Module.symvers -e 

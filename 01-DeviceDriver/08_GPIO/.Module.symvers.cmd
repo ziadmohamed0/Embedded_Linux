@@ -1,0 +1,1 @@
+savedcmd_/home/ziad/Device_Driver/08_GPIO/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ziad/Device_Driver/08_GPIO/Module.symvers -T /home/ziad/Device_Driver/08_GPIO/modules.order -i Module.symvers -e 

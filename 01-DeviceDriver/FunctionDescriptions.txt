@@ -1,0 +1,17 @@
+module_init(); -> give this function your function intialization this module in system 
+
+module_exit(); -> give this function your function exit to remove this  module from system
+
+module_param(); -> first param in your variable 
+		-> secound param is a data type of the first param (for string -> charp)
+		-> third param is a Permissions
+
+register_chrdev()	-> first param a major variable
+			-> secound param a name of major
+			-> third param a pointerof struct (&fops)	-> .owner   = THIS_MODULE,
+
+									-> .open    = functions open, 	-> first param struct inode *devic_file
+													-> secound param struct file *instance
+
+									-> .release = function close,	-> first param struct inode *devic_file
+													-> secound param struct file *instance

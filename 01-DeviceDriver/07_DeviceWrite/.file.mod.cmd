@@ -1,0 +1,1 @@
+savedcmd_/home/ziad/Device_Driver/07_DeviceWrite/file.mod := printf '%s\n'   file.o | awk '!x[$$0]++ { print("/home/ziad/Device_Driver/07_DeviceWrite/"$$0) }' > /home/ziad/Device_Driver/07_DeviceWrite/file.mod

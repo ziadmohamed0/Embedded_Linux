@@ -1,0 +1,1 @@
+savedcmd_/home/ziad/Device_Driver/06_DeviceRead/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ziad/Device_Driver/06_DeviceRead/Module.symvers -T /home/ziad/Device_Driver/06_DeviceRead/modules.order -i Module.symvers -e 
