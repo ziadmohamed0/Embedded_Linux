@@ -1,0 +1,5 @@
+/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/build-crash_course-Desktop-Debug/CMakeFiles/crash_course.dir
+/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/build-crash_course-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/build-crash_course-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/build-crash_course-Desktop-Debug/CMakeFiles/crash_course_autogen_timestamp_deps.dir
+/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/build-crash_course-Desktop-Debug/CMakeFiles/crash_course_autogen.dir

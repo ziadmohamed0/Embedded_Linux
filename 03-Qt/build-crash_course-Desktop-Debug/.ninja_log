@@ -1,0 +1,16 @@
+# ninja log v5
+3	40	1749338783058325680	crash_course_autogen/timestamp	cf9f97a3784a44cd
+268	4611	1749338746789200871	CMakeFiles/crash_course.dir/main.cpp.o	d6172f0f9837eb7d
+3	40	1749338783058325680	crash_course_autogen/mocs_compilation.cpp	cf9f97a3784a44cd
+2208	2597	1749338785613334430	crash_course	973bd05999292a58
+3	40	1749338783058325680	/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/build-crash_course-Desktop-Debug/crash_course_autogen/timestamp	cf9f97a3784a44cd
+3	40	1749338783058325680	/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/build-crash_course-Desktop-Debug/crash_course_autogen/mocs_compilation.cpp	cf9f97a3784a44cd
+41	2208	1749338785220333085	CMakeFiles/crash_course.dir/mainwindow.cpp.o	d31d3e30673476c
+268	4287	1749338746487199827	CMakeFiles/crash_course.dir/crash_course_autogen/mocs_compilation.cpp.o	6669816c1e84b93d
+4	36	1750754242797912438	crash_course_autogen/timestamp	cf9f97a3784a44cd
+4	36	1750754242797912438	crash_course_autogen/mocs_compilation.cpp	cf9f97a3784a44cd
+4	36	1750754242797912438	/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/build-crash_course-Desktop-Debug/crash_course_autogen/timestamp	cf9f97a3784a44cd
+4	36	1750754242797912438	/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/build-crash_course-Desktop-Debug/crash_course_autogen/mocs_compilation.cpp	cf9f97a3784a44cd
+37	268	1750754243026861368	CMakeFiles/crash_course.dir/main.cpp.o	d6172f0f9837eb7d
+37	280	1750754243033859834	CMakeFiles/crash_course.dir/mainwindow.cpp.o	d31d3e30673476c
+280	1298	1750754244057635697	crash_course	973bd05999292a58

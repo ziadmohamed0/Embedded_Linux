@@ -1,0 +1,5 @@
+/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/Simple_Calculator/build/CMakeFiles/Qt_Tutorials.dir
+/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/Simple_Calculator/build/CMakeFiles/edit_cache.dir
+/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/Simple_Calculator/build/CMakeFiles/rebuild_cache.dir
+/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/Simple_Calculator/build/CMakeFiles/Qt_Tutorials_autogen_timestamp_deps.dir
+/home/ziad/Ziad_WS/Embedded_Linux/03-Qt/Simple_Calculator/build/CMakeFiles/Qt_Tutorials_autogen.dir
